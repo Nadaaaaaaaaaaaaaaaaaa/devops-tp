@@ -1,3 +1,4 @@
 # requirements.txt
 # Exemple de dépendance (décommentez si nécessaire)
 flask==2.1.1
+werkzeug==2.3.7
